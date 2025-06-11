@@ -60,7 +60,7 @@ export default sidebar({
         { text: '今日股市王斌学习营第十九课', link: '/word/19' },
         { text: '今日股市王斌学习营第二十课', link: '/word/20' },
         { text: '今日股市王斌学习营第二十一课', link: '/word/21' },
-        { text: '今日股市王斌学习营第二十二', link: '/word/22' },
+        { text: '今日股市王斌学习营第二十二课', link: '/word/22' },
         { text: '今日股市王斌学习营第二十三课', link: '/word/23' },
         { text: '今日股市王斌学习营第二十四课', link: '/word/24' },
       ]

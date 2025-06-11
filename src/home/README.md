@@ -44,7 +44,7 @@
 
 
 
-<img width="300" src=../assets/wechat.jpg />
+<img width="300" src="../assets/wechat.jpg" />
 
 
 
