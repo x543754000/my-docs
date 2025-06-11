@@ -6,13 +6,47 @@ export default navbar([
   "/demo/",
  {
     text: "赞助",
-    icon: "book",
     link: "/home/",
   },
    {
     text: "基础",
-    icon: "book",
     link: "/word/",
+  },
+     {
+    text: "音频",
+    link: "/mp3/",
+  },
+       {
+    text: "视频",
+    link: "/video/",
+  },
+         {
+    text: "台历",
+    link: "/taili/",
+  },
+         {
+    text: "摸线",
+    link: "/moxian/",
+  },
+         {
+    text: "滑滑梯",
+    link: "/hht/",
+  },
+         {
+    text: "口诀",
+    link: "/koujue/",
+  },
+         {
+    text: "关键点",
+    link: "/point/",
+  },
+           {
+    text: "徽章",
+    link: "/huizhang/",
+  },
+           {
+    text: "高级课程",
+    link: "/vip/",
   },
   {
     text: "指南",

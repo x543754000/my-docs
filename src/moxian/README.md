@@ -7,14 +7,14 @@
 <!-- 链接：[https://pan.baidu.com/s/1KIj5FkwsRlktL-9_nADFXQ?pwd=g7kq](https://pan.baidu.com/s/1KIj5FkwsRlktL-9_nADFXQ?pwd=g7kq) 
 提取码：g7kq -->
 
-<img width="335" src=../assets/QR/摸线.png />
+<img width="335" src="../assets/QR/摸线.png" />
 
 ## 🤝 添加客服微信下载源文件
 
-<img width="300" src=../assets/wechat.jpg />
+<img width="300" src="../assets/wechat.jpg" />
 
 <!-- ## 🤝 祝打赏的老板股市长红
 
-<img width="335" src=../assets/wepay.png />
-<img width="300" src=../assets/alipay.jpg />
-<img width="300" src=../assets/hb.jpg /> -->
+<img width="335" src="../assets/wepay.png" />
+<img width="300" src="../assets/alipay.jpg" />
+<img width="300" src="../assets/hb.jpg" /> -->
